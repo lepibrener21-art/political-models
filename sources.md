@@ -2,6 +2,7 @@
 
 Cite by key in cards. One line per source, alphabetical by key.
 
+- `ackerman2002` Ackerman, B. & Ayres, I. *Voting with Dollars: A New Paradigm for Campaign Finance*. Yale UP, 2002.
 - `baiocchi2005` Baiocchi, G. *Militants and Citizens: The Politics of Participatory Democracy in Porto Alegre*. Stanford UP, 2005.
 - `berlin1958` Berlin, I. "Two Concepts of Liberty". Lecture, Oxford, 1958.
 - `bookchin2015` Bookchin, M. *The Next Revolution: Popular Assemblies and the Promise of Direct Democracy*. Verso, 2015.

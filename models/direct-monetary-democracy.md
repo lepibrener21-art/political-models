@@ -4,7 +4,7 @@ name: Direct monetary democracy
 type: proposal
 role: replacement
 scores: {F: 4, P: 2, S: 1, C: 2, R: 1, E: 1}
-related: [participatory-budgeting, quadratic-voting, liquid-democracy, futarchy]
+related: [hybrid-monetary-democracy, participatory-budgeting, quadratic-voting, liquid-democracy, futarchy]
 updated: 2026-11-07
 ---
 
@@ -44,7 +44,7 @@ updated: 2026-11-07
 - Property rights and fraud enforcement are public goods that must be funded first.
 
 ## Open questions
-- Would a hybrid work: a compulsory core budget (courts, audit, debt, safety net, maintenance) plus an equal civic budget per person to direct? It should score far higher on protection and popular power; compare `participatory-budgeting`.
+- Does a hybrid with a protected core and equal civic budgets fix the main weaknesses? See `hybrid-monetary-democracy`.
 - Can all-or-nothing thresholds, milestone payments and lifetime-cost rules curb overpromising?
 - Small, voluntary, high-trust groups (co-ops, DAOs) may manage now; where is the size limit?
 - Freedom is disputed: high on paper, but weak protection drags it down in practice.
